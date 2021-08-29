@@ -1,0 +1,61 @@
+#######################################
+# Syntax BinPrint
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+BinPrint	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+#begin	KEYWORD2
+#end	KEYWORD2
+#available	KEYWORD2
+#read	KEYWORD2
+#peek	KEYWORD2
+#write	KEYWORD2
+#flush	KEYWORD2
+#bool	KEYWORD2
+
+# BinPrint Class - general print function
+print	KEYWORD2
+
+# BinPrint Class - print one byte
+printByteNoIndent	KEYWORD2
+printlnByteNoIndent	KEYWORD2
+printByte	KEYWORD2
+printlnByte	KEYWORD2
+
+# BinPrint Class - print three nibbles
+print3NibblesNoIndent	KEYWORD2
+println3NibblesNoIndent	KEYWORD2
+print3Nibbles	KEYWORD2
+println3Nibbles	KEYWORD2
+
+# BinPrint Class - print one Word
+printWordNoIndent	KEYWORD2
+printlnWordNoIndent	KEYWORD2
+printWord	KEYWORD2
+printlnWord	KEYWORD2
+
+# BinPrint Class - print double Word
+printDwordNoIndent	KEYWORD2
+printlnDwordNoIndent	KEYWORD2
+printDword	KEYWORD2
+printlnDword	KEYWORD2
+
+# BinPrint Class - print leading zeros
+printLeadingZeros	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+#FILE_READ	LITERAL1
+#FILE_WRITE	LITERAL1
+#FILE_APPEND	LITERAL1
