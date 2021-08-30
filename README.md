@@ -19,6 +19,7 @@
   - Possibility to choose between a general function and functions with parameters encoded in their names
   - Functions with parameters encoded in their names can print binary: 
     one byte, three nibbles, two bytes (word) or four bytes (double word)
+  - By calling the function multiple times you can easily print a datagram of any length, well-formatted
 
 ###  Benefits ###
   - You can easily print any datagram that is easy to read because leading zeros are never omitted
