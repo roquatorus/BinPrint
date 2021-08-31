@@ -12,7 +12,7 @@
   The list of all available functions can be found in the header file - BinPrint.h
 
 ### Features and capabilities ###
-  - Leading zeros are never omitted in the printout.
+  - Leading zeros are never omitted in the printout
   - It always prints with one space between each nibble and two spaces between each byte
   - Capable to print without indent or with two character length indentation
   - Possibility of ending with a newline character
@@ -24,7 +24,7 @@
 ###  Benefits ###
   - You can easily print any datagram that is easy to read because leading zeros are never omitted
   - You can choose between functions with indentation feature or without and with or without new line
-    which makes formatting much easier.
+    which makes formatting much easier
   - You can also use the general function print(ARGs) to define printing parameters
   - An additional function of printing leading zeros is included
     to greatly simplify the formatting of integers in the printout
