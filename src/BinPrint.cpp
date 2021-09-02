@@ -17,7 +17,7 @@
   - You can easily print any datagram that is easy to read because leading zeros are never omitted
   - You can choose between functions with indentation feature or without and with or without new line
     which makes formatting much easier.
-  - You can also use the general function (binprint) to define printing parameters
+  - You can also use the general function (print) to define printing parameters
   - An additional function of printing leading zeros is included
     to greatly simplify the formatting of integers in the printout
 */
